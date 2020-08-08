@@ -13,7 +13,7 @@ return (
 
   <div>
 <Header/>
-  <p>Welcome to my child component </p>
+  <p>Welcome to my child component, hello </p>
 <Footer/>
   </div>
 
