@@ -7,7 +7,7 @@ export default class App  extends Component{
 
 render (){
   return (
-    <div clasName="App">
+    <div className="App">
     <h3>Welcome to parent </h3>
     <MyComp/>
     </div>

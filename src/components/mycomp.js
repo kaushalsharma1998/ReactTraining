@@ -12,8 +12,9 @@ export default class MyComp extends Component{
 return (
 
   <div>
-<Header/>
+<Header data1="hello data"/>
   <p>Welcome to my child component, hello </p>
+
 <Footer/>
   </div>
 
